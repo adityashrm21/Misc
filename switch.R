@@ -1,5 +1,5 @@
-#trying to implement the SWITCH ensemble technique in R and comparing the accuracy changes
-#http://www.public.asu.edu/~huanliu/papers/ecml04.pdf
+# trying to implement the SWITCH ensemble technique in R and comparing the accuracy changes
+# http://www.public.asu.edu/~huanliu/papers/ecml04.pdf
 
 setwd("~/Desktop/F/data science/Switch_try")
 
