@@ -1,3 +1,6 @@
+#trying to implement the DECORATE algorithm in R
+#reference - http://www.cs.utexas.edu/~ml/papers/decorate-proposal-03.pdf
+
 setwd("~/Desktop/F/data science/decorate_try")
 
 plot(0,0, xlim=c(1,150), ylim=c(1,100), xlab="Number of training examples", ylab="Accuracy" ,type="b")
