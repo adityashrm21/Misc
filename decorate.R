@@ -1,5 +1,5 @@
 #trying to implement the DECORATE algorithm in R
-#reference - http://www.cs.utexas.edu/~ml/papers/decorate-proposal-03.pdf
+
 
 setwd("~/Desktop/F/data science/decorate_try")
 
